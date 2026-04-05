@@ -1,0 +1,11 @@
+[project]
+name = "agentcore-gateway-quickstart"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bedrock-agentcore-starter-toolkit>=0.3.3",
+    "boto3>=1.42.78",
+    "strands-agents>=1.33.0",
+]
