@@ -1,1 +1,1 @@
-# copilot-sample
+# bedrock-agentcore-starter-toolkit-sample
